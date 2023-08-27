@@ -1,0 +1,1 @@
+.\src\ascii-image-converter.exe .\videos\output\frame_0.jpg -W 250 --save-img .\videos\asciioutput\.
